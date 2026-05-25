@@ -1,0 +1,10 @@
+f1 = open ("file.txt" , "a")
+# f1.write ("hello world \n")
+# f1.write("file r+ mode usage is to read and write \n")
+# f1.write("1234124\n")
+f1.write("this is overwrite mode \n")
+f1.close()
+
+# f2 = open ("music.mp3", "b")
+# print ( "music made ")
+# f2.close()

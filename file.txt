@@ -1,0 +1,4 @@
+hello world 
+2nd line of file  
+3rd line of file  
+this is append mode this is 5th line 

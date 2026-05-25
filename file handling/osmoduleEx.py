@@ -1,0 +1,16 @@
+import os
+
+print(os.path.exists("file2.txt"))
+print(os.path.exists("file handling"))
+print ('\n')
+path = os.path.join ("file handling" , "file.txt")
+print(path)
+print ('\n')
+print (os.path.basename(path))
+print (os.path.dirname(path))
+print ('\n')
+print (os.path.split(path))
+print (os.path.splitext(path))
+print ('\n')
+print (os.path.getsize("file handling"))   
+print (os.path.abspath(path))
